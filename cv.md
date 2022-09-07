@@ -15,7 +15,7 @@ _____
 
 ### About Me
 _____
-I have a background of working in the sphere of international logistics. There I received a lot of useful skills, such us working in the team, stress resistance, language experience and analytical one. But I have got thoughts of changing sphere and connecting my future profession with Frontend Development about two years already. Now the time has come. 
+I have a background of working in the sphere of international logistics. There I received a lot of useful skills, such as working in the team, stress resistance, language experience and analytical one. But I have already got thoughts of changing sphere and connecting my future profession with Frontend Development. Now the time has come. 
 Hope, that my ability to gain new skills will help me to become a good Frontend Developer.
 
 ### Skills and Proficiency
@@ -36,8 +36,7 @@ _____
             console.log ("else");
             }
 ```
-        
-        
+               
 ### Courses
 _____
 A1QA courses in Itransition Group *completed*
