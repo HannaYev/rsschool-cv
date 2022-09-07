@@ -45,5 +45,5 @@ A1QA courses in Itransition Group *completed*
 _____
 * Russian - Native
 * Belarusian - Native
-* English  - B2  *according to the final test after competing course in International house, experience of communicating with native speakers.*
+* English  - B2  *according to the final test after completing course in International house, experience of communicating with native speakers.*
 * Polish - A1  - *courses of Polonias*
